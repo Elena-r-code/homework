@@ -1,0 +1,16 @@
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\bin\Debug\net5.0\Homework.exe
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\bin\Debug\net5.0\Homework.deps.json
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\bin\Debug\net5.0\Homework.dll
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\bin\Debug\net5.0\ref\Homework.dll
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\bin\Debug\net5.0\Homework.pdb
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.dll
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\ref\Homework.dll
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.pdb
+C:\Users\Elena\OneDrive\Desktop\AsyncAwaitHomework\Homework\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
